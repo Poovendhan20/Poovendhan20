@@ -29,6 +29,7 @@
 - 📱 **Mobile Phone Animation** – Modeled, lit, and animated in Blender + AE  
 - 🚉 **Train Station** – A cinematic 3D animation  
 - 🌦️ **Weather App** – Simple weather UI using HTML/CSS/JS
+- 📝 **My task app** - its a simple webApplication to add the day-to-day tasks
 
 👉 Check my pinned repositories below!
 
