@@ -48,7 +48,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/poovendhan-r4904)  
-[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:poovendhanramkumar@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:poovendhan931@gmail.com)
 
 ---
 
